@@ -28,4 +28,6 @@ Here are our video recordings that explain how the app works:
 MVVM Architecture Aleks Lubczynski
 https://youtu.be/aPxfPm39IDU 
 
-Transition/Animation Ian Mackenzie
+Transition/Animation Ian Mackenzie <-- Please put my video in 3x speed if you can I had to type it out because my mic wasnt working and im a slow typer
+https://youtu.be/hlpbILFaJ0w
+
